@@ -1,52 +1,32 @@
-# CryptoFightClub-Coin
-The Coin that represents the fighter in all of us. 
 
+CryptoFightClub development tree
 
+CryptoFightClub is a PoS-based cryptocurrency.
 
-# CryptoFightClub Development Network
+Development process
+===========================
 
-https://CryptoFightClubCo.in 
+Developers work in their own trees, then submit pull requests when
+they think their feature or bug fix is ready.
 
-# What is CryptoFightClub Coin?
+The patch will be accepted if there is broad consensus that it is a
+good thing.  Developers should expect to rework and resubmit patches
+if they don't match the project's coding conventions (see coding.txt)
+or are controversial.
 
-Well the coin represents the fighter in all of us.  That's how I've marketed it.  Meaning it's a coin that grows with you as it's a PoW/ PoS hybrid.  
+The master branch is regularly built and tested, but is not guaranteed
+to be completely stable. Tags are regularly created to indicate new
+stable release versions of CryptoFightClub.
 
-As most coins are mined and aquired via rains, and once listed bought, the coin can be staked.  So in essence it grows with you.  We all go through struggles the coin at times may struggle in keeping value, I say this because of the recent fluctuation in Bitcoin.  So all coins lose value, with some not rebounding.  Our coin has an advantage that can keep it's value as our community backs it.  Meaning we all are starting with limited coins.  So as you struggle, mining, purchasing and raining may also struggle but what you have accumilated still grows.  
+Feature branches are created when there are major new features being
+worked on by several people.
 
+From time to time a pull request will become outdated. If this occurs, and
+the pull is no longer automatically mergeable; a comment on the pull will
+be used to issue a warning of closure. The pull will be closed 15 days
+after the warning if action is not taken by the author. Pull requests closed
+in this manner will have their corresponding issue labeled 'stagnant'.
 
-# Whitepaper
-
-https://www.dropbox.com/s/yzfuppsmurxabni/CryptoFightClub%20Whitepaper%20.pdf?dl=0
-
-# License
-
-CryptoFightClub Coin is released under the MIT license, for more information see the following: https://opensource.org/licenses/MIT.
-
-# Development
-
-To be updated.
-
-# Translations
-
-To be updated.
-
-# Donations
-
-Feel free to donate at any of the following addresses:
-
-# WAVES: 3P6F6fpKUotZA9pKJtDpZduQdtiLozrDxd2
-
-# BTC: 398tJALm8mKEL7FwnzBbiU3Q5EYKhr4yty           
-min btc 0.001
-
-# LTC: LcjPat7q6y5rFjKvYjW4WuH2GbrJpZEf3C          
-min ltc 0.001
-
-# CROC: CS7j34WS7kGM1op4opYsBAzFWkpDKjT6tG          
-min croc 0.1
-
-# ETH: 0x6a8aa19e35f4c541980f5e9119f25d5c2769b53f          
-min eth 0.001
-
-
-If you would like to donate in any other medium, please write me an email at Superdoggie.tk@gmail.com 
+Issues with no commits will be given a similar warning, and closed after
+15 days from their last activity. Issues closed in this manner will be 
+labeled 'stale'.
